@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/**/*.js": {
+      "includeFiles": "android/app/src/main/assets/av_all_v3.db"
+    }
+  }
+}
